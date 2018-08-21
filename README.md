@@ -1,6 +1,4 @@
-# chinese-s2t-pro 
-
-[![NPM version](https://img.shields.io/npm/v/chinese-s2t-pro.svg?style=flat)](https://www.npmjs.com/package/chinese-s2t-pro)
+# chinese-s2t-pro  [![NPM version](https://img.shields.io/npm/v/chinese-s2t-pro.svg?style=flat)](https://www.npmjs.com/package/chinese-s2t-pro)
 
 
 
