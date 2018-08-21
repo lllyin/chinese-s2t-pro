@@ -1,0 +1,26 @@
+{
+  "name": "chinese-s2t-pro",
+  "version": "1.0.1",
+  "description": "中文简繁互转",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andesome/chinese-s2t-pro.git"
+  },
+  "keywords": [
+    "中文",
+    "简繁",
+    "互转"
+  ],
+  "author": "andesome",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andesome/chinese-s2t-pro/issues"
+  },
+  "homepage": "https://github.com/Andesome/chinese-s2t-pro#readme"
+}
