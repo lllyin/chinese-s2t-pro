@@ -1,6 +1,7 @@
 # chinese-s2t-pro  [![NPM version](https://img.shields.io/npm/v/chinese-s2t-pro.svg?style=flat)](https://www.npmjs.com/package/chinese-s2t-pro)
 
-
+## demo
+https://demo.liaolunling.top/s2t/dist/index.html
 
 # 介绍
 
